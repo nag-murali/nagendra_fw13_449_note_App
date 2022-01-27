@@ -1,0 +1,31 @@
+#app{
+    margin: auto;
+    border: 1px solid green;
+    background-color: wheat;
+    margin-top: 5%;
+    display: flex;
+    position: relative;
+    height: 99vh;
+    width: 60%;
+   
+}
+
+
+
+#notearea{
+    margin: 20px;
+    margin-top: 120px;
+   width: 100%;
+    border-radius: 2%;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img{
+    width: 100px;
+    height: 80px;
+    margin-top: 0;
+    position: absolute;
+    top: 0;
+
+}
